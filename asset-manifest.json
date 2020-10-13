@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/taxi/static/css/main.5f361e03.chunk.css",
+    "main.js": "/taxi/static/js/main.5739db09.chunk.js",
+    "main.js.map": "/taxi/static/js/main.5739db09.chunk.js.map",
+    "runtime-main.js": "/taxi/static/js/runtime-main.f686bdfa.js",
+    "runtime-main.js.map": "/taxi/static/js/runtime-main.f686bdfa.js.map",
+    "static/js/2.4bd92ce0.chunk.js": "/taxi/static/js/2.4bd92ce0.chunk.js",
+    "static/js/2.4bd92ce0.chunk.js.map": "/taxi/static/js/2.4bd92ce0.chunk.js.map",
+    "index.html": "/taxi/index.html",
+    "precache-manifest.04bf5f54268663da5b8a257817242c1f.js": "/taxi/precache-manifest.04bf5f54268663da5b8a257817242c1f.js",
+    "service-worker.js": "/taxi/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/taxi/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4bd92ce0.chunk.js.LICENSE.txt": "/taxi/static/js/2.4bd92ce0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/taxi/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f686bdfa.js",
+    "static/js/2.4bd92ce0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5739db09.chunk.js"
+  ]
+}
